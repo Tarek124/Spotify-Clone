@@ -45,6 +45,11 @@
     outline-width: 0px;
 }
 
+#search_div:hover {
+    border: 1px solid rgb(192, 192, 192);
+    transition: .4s;
+}
+
 .user-text {
     color: var(--text, #666);
     font-family: 'Inter', sans-serif;
